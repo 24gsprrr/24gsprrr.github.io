@@ -2,7 +2,7 @@
 
 Laboratorio virtual de **variables ambientales**: mide la temperatura y el gas de un recinto cerrado con un Arduino Uno y compara lo medido con el modelo teórico.
 
-**Demo:** https://TU-USUARIO.github.io/telelol/
+**Demo:** [https://TU-USUARIO.github.io/telelol/](https://24gsprrr.github.io/)
 
 > Proyecto Innovación Tecnológica · Prof. Ana G. Jorquera F.
 > Temática: Calor y Ambiente / Fluidos
